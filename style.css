@@ -122,6 +122,12 @@ section a {
     margin: 20px 0;
 }
 
+/* Adding a Hover Effect in Social icons */
+.social img:hover{
+    transition: 0.3s ease;
+    opacity: 0.6;
+}
+
 .social a {
     text-decoration: none;
     margin-right: 20px;
